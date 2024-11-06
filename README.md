@@ -77,7 +77,7 @@
 ## Training Statistics
 - **Training Duration**: XX hours
 - **Number of Epochs**: 50
-- **Training Dataset Size**: XX images (I've used less amount of datasets but I would suggest you create or get datasets from RoboFlow and train with your own datasets)
+- **Training Dataset Size**: XX images (I've used less amount of datasets but I would suggest you create datasets using my tutorial file and annotate them in .yml files for YOLO v11 or get datasets from RoboFlow and train with your own datasets)
 - **Validation Dataset Size**: XX images
 - **Hardware Used**: Google Colab T4 GPU
 
