@@ -115,7 +115,7 @@ You can then run it in your Google Colab.
 ## 📈 Training Process
 
 <div align="center">
-  <img src="path_to_training_metrics.png" alt="Training Metrics" width="600"/>
+  <img src="https://github.com/user-attachments/assets/8f1da8bc-e9ee-4ab2-9ddd-37f8ac6a15b3" alt="Training Metrics" width="600"/>
 </div>
 
 ## 🤝 Contributing
