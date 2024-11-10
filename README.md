@@ -24,11 +24,13 @@
 - 🚀 GPU-accelerated inference (If you have colab pro you can use A100 GPU otherwise T4 GPU)
 - 🔄 Support for multiple hand gestures
 
-## 🎬 Demo & Results
+## 🎬 Demo & Results (Click on the image below to watch the Demo)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFobjNpeXY2eDg0NHl5dWJ5b2kwNm9teWJnMmRzN3ByZnZta3hlYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qfAulQmnLyKNBt89qt/giphy.gif" alt="Training Progress" width="600"/>
-  <p><i>Model training progress and results visualization</i></p>
+  <a href="https://youtu.be/tuEgzAvdPyg?si=-S1FawDs3KQtWgLV">
+    <img src="https://raw.githubusercontent.com/azaynul10/sign-language-detection-yolov11/main/how%20to%20always%20stay%20(1).png" alt="Sign Language Detection Demo" width="600"/>
+  </a>
+  <p><i>Real-time sign language detection demonstrating "Hello", "Thank You", "Yes" , "No" and "I Love You" gestures</i></p>
 </div>
 
 ## 🛠️ Technical Details
