@@ -1,5 +1,4 @@
-#  Sign Language Detection using YOLOv11 (Update (November 2025): Verified code compatibility with the latest PyTorch and Ultralytics YOLOv11 release.)
-
+#  Sign Language Detection 
 <div align="center">
   <img src="https://media.giphy.com/media/r4N5NIckk37x76byEf/giphy.gif?cid=790b76114q7ujlpguzc2zydj63z6ftf1al6yelf52rzgmc9p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Sign Language Detection Demo" width="700"/>
   <p><i>Real-time sign language detection powered by YOLOv11</i></p>
